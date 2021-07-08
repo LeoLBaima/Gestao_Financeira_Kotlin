@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "519249203993",
+    "project_id": "gfinances-20c75",
+    "storage_bucket": "gfinances-20c75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519249203993:android:2ef7e47b43be8d3d84ab88",
+        "android_client_info": {
+          "package_name": "br.unifor.gfinanceira"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "519249203993-1dv1gq53heajrfcsgsu05rq79748kp10.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUYDN2qyEj7Bw40brA5ZqJ1RYwmFM1Deg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "519249203993-1dv1gq53heajrfcsgsu05rq79748kp10.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
